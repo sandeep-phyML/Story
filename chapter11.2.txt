@@ -1,0 +1,1 @@
+this branch is one commit behind the remote main branch , do some new commit , try push this branch to the main branch , what expect since this one commit behind the main ,also another independent one commit ahead of the main branch , it ask to pull to make sure this all ahead of the remote main 
